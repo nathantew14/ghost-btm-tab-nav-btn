@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.test.ghost_btm_tab_nav_btn"
     },
     "web": {
       "favicon": "./assets/favicon.png"
